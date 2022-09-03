@@ -7,17 +7,12 @@ body, ul, li, p {
 
 body {        
     max-width: 900px;
-    margin: 5px auto; /* MARGEM SUPERIOR DEVIDO A LINHA DO BACKGROUND */
+    margin: 5px auto; /* Margem superior devido a linha do background */
 }
 
 a {
     text-decoration: none;
     color: black;
-}
-
-h1 {
-    text-align: center;
-    margin-top: 100px;
 }
 
 img {
@@ -29,14 +24,11 @@ img {
     display: flex;
     justify-content: space-between;    
     align-items: center;
-    padding: 21px 20px; /* PADDING DE ACORDO COM O MARGIN DO BODY */
-    margin: 0px auto;  
+    padding: 21px 20px; /* Padding de acordo com o margin do body */
 }
 
 .header img {
     display: block;
-    margin: 0px;
-    padding: 0px;
 }
 
 .header ul {
